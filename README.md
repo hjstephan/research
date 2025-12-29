@@ -18,16 +18,16 @@ Eine wissenschaftliche Arbeit im Bereich CMOS-Technologie (Complementary Metal-O
 ### pyuvm
 Eine Python-basierte Implementierung der Universal Verification Methodology (UVM) für Hardware-Verifikation und Chip-Design-Testing. Das Projekt ermöglicht die Durchführung systematischer Verifikationsprozesse für digitale Schaltungen und unterstützt den Entwicklungszyklus moderner Halbleiter-Designs. Ergänzt wurde eine Testbench für die Simulation und Verifikation von VHDL und Verilog Beschreibungen mit Line-By-Line Code Coverage Report. 
 
-## Analyse
+## Finanz-, Code- & Log-Analyse
 
 ### consorsbank-parser
 Ein leistungsfähiger Java-basierter Parser zur automatisierten Extraktion und Verarbeitung von Finanzdaten der Consorsbank. Das Tool nutzt die Mindee API für das intelligente Parsen von Belegen und Dokumenten sowie die Berlin Group API (NextGenPSD2) für die standardisierte Schnittstelle zu Banken. Der Parser verarbeitet Kontobewegungen, Depotauszüge und andere Finanzdokumente und strukturiert diese für die Weiterverarbeitung.
 
-### slf4j-parser
-Ein Parser zum systematischen Analysieren und Verarbeiten von SLF4J-Logs (Simple Logging Facade for Java). Das Tool extrahiert strukturierte Informationen aus Java-Anwendungs-Logs und ermöglicht die Auswertung, Filterung und Analyse von Log-Daten für Debugging und Monitoring-Zwecke.
-
 ### pmd-report-sorter
 Ein spezialisiertes Tool zum Sortieren und Organisieren von PMD-Reports (Programming Mistake Detector). PMD ist ein etabliertes statisches Code-Analyse-Tool für Java und andere Programmiersprachen. Dieses Projekt analysiert die zyklomatische Komplexität jeder Methode im Code und speichert die Ergebnisse absteigend sortiert in einer .txt-Datei, die für Git-Repositories optimiert ist. Dies ermöglicht Entwicklern, die komplexesten Methoden zu identifizieren und gezielt zu refaktorisieren.
+
+### slf4j-parser
+Ein Parser zum systematischen Analysieren und Verarbeiten von SLF4J-Logs (Simple Logging Facade for Java). Das Tool extrahiert strukturierte Informationen aus Java-Anwendungs-Logs und ermöglicht die Auswertung, Filterung und Analyse von Log-Daten für Debugging und Monitoring-Zwecke.
 
 ## Bibel-Anwendungen
 
