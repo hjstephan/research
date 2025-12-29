@@ -5,7 +5,7 @@ In den letzten zwei Jahren habe ich diese wissenschaftlichen Arbeiten und Softwa
 ## Wissenschaftliche Arbeiten
 
 ### algebra
-Ein wissenschaftliche Arbeit zur systematischen Implementierung algebraischer Strukturen, Operationen und Algorithmen. Das Projekt befasst sich mit der theoretischen und praktischen Umsetzung mathematischer Konzepte aus der Algebra und zeigt wichtige grundlegende Aussagen.
+Ein wissenschaftliche Arbeit zur systematischen Implementierung algebraischer Strukturen, Operationen und Algorithmen. Das Projekt befasst sich mit der theoretischen und praktischen Umsetzung mathematischer Konzepte aus der Algebra und zeigt wichtige grundlegende Aussagen. 0 und 1 sind die wichtigsten Zahlen und die wichtigste Zahl ist 1.
 
 ### strassen
 Eine wissenschaftliche Arbeit zum Strassen-Algorithmus für Matrizenmultiplikation. Das Projekt untersucht Laufzeitverbesserungen und bietet eine optimierte Implementierung mit verbesserter Komplexität gegenüber dem klassischen naiven Ansatz. Der Strassen-Algorithmus reduziert die asymptotische Komplexität von (n^2.807) mit 7 Matrixmultiplikationen auf nur 5 Matrixmultiplikationen und ermöglicht damit deutlich schnellere Berechnungen bei großen Matrizen. Es wird gezeigt, dass die Komplexitätsklassen P und NP gleich sind und weitere Komplexitätsklassen werden eingeführt.
