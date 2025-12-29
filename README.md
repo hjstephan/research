@@ -1,6 +1,6 @@
 # Projektübersicht
 
-Diese Übersicht zeigt meine wissenschaftlichen Arbeiten und meine Software-Projekte, die von mathematischer Grundlagenforschung über Hardware-Verifikation und Finanzanalyse bis zu KI-gestützten Sprachanwendungen reichen. Die Projekte verbinden theoretische Algorithmen mit praktischer Implementierung und demonstrieren interdisziplinäres Arbeiten an der Schnittstelle von Informatik, Mathematik und angewandter Softwareentwicklung.
+In den letzten zwei Jahren habe ich diese wissenschaftlichen Arbeiten und Software-Projekte entwickelt, die von mathematischer Grundlagenforschung über Hardware-Verifikation und Finanzanalyse bis zu KI-gestützten Sprachanwendungen reichen. Meine Arbeiten und Projekte verbinden theoretische Algorithmen mit praktischer Implementierung und demonstrieren interdisziplinäres Arbeiten an der Schnittstelle von Informatik, Mathematik und Elektrotechnik.
 
 ## Wissenschaftliche Arbeiten
 
