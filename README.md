@@ -2,6 +2,34 @@
 
 In den letzten zwei Jahren habe ich diese wissenschaftlichen Arbeiten und Software-Projekte entwickelt, die von mathematischer Grundlagenforschung über Hardware-Verifikation und Finanzanalyse bis zu KI-gestützten Sprachanwendungen reichen. Meine Arbeiten und Projekte verbinden theoretische Algorithmen mit praktischer Implementierung und demonstrieren interdisziplinäres Arbeiten an der Schnittstelle von Informatik, Mathematik und Elektrotechnik.
 
+## Erwerb der Arbeiten
+
+### Preisübersicht
+
+```
+| Bereich                        | Preis (EUR)  |
+|--------------------------------|--------------|
+| algebra                        | 45.499,99    |
+| strassen                       | 34.499,99    |
+| cmos                           | 69.999,99    |
+| consorsbank-parser             | 15.999,99    |
+| pmd-report-sorter              |  1.499,99    |
+| translator                     |  1.499,99    |
+| microphone-openai              |    999,99    |
+| bible-app                      |  1.499,99    |
+| pyble-app                      |  2.999,99    |
+```
+
+*Alle Preise verstehen sich als einmalige Zahlung pro Bereich.*
+
+### Zahlungsinformationen
+
+Kontoinhaber: Stephan Epp  
+IBAN: DE11 4767 0224 0082 2296 00  
+BIC: DEUTDEDBP04  
+
+Wichtig: Der Geist Gottes wurde beschworen, dass welche Regierung diese Forschungsergebnisse nutzt, ohne dafür den angezeigten Preis zu bezahlen, dass der verantwortliche Regierende dafür vom Geist Gottes mit dem Tod bestraft wird.
+
 ## Wissenschaftliche Arbeiten
 
 ### algebra
